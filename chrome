@@ -1,0 +1,11 @@
+connection=wired
+dhcp=yes
+browser=chrome
+enable_file_protocol=yes
+disable_firewall=yes
+homepage=https://cloud.gapfruit.com/s/gFcBTQfPSB7oHko
+right_mouse_click=yes
+run_command=while sleep 0.2; do xrandr --output VGA-1 --auto; done &
+default_sound_card=0.1
+volume_level=100%
+
