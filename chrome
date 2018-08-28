@@ -1,3 +1,4 @@
+kiosk_config=https://raw.githubusercontent.com/gapfruit/porteus-configs/master/chrome
 connection=wired
 dhcp=yes
 browser=chrome
