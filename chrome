@@ -6,10 +6,11 @@ enable_file_protocol=yes
 disable_firewall=yes
 homepage=https://google.com
 right_mouse_click=yes
-run_command=while sleep 0.2; do xrandr --output VGA-1 --auto; done &
+run_command=mount -t vboxsf -o umask=0022,gid=1000,uid=1000 shared /mnt
 default_sound_card=0.1
 volume_level=100%
 removable_devices=yes
 persistence=session
 timezone=Europe/Zurich
+debug=yes
 
