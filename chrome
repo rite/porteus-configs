@@ -9,4 +9,7 @@ right_mouse_click=yes
 run_command=while sleep 0.2; do xrandr --output VGA-1 --auto; done &
 default_sound_card=0.1
 volume_level=100%
+removable_devices=yes
+persistence=session
+timezone=Europe/Zurich
 
