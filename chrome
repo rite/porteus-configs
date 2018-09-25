@@ -1,3 +1,4 @@
+kiosk_config=https://bit.ly/2px7vBA
 connection=wired
 dhcp=yes
 browser=chrome
