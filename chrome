@@ -1,4 +1,4 @@
-kiosk_config=https://raw.githubusercontent.com/rite/porteus-configs/master/chrome
+kiosk_config=https://github.com/rite/porteus-configs/blob/245-download-shared-fs/chrome
 connection=wired
 dhcp=yes
 browser=chrome
